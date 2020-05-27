@@ -1,7 +1,7 @@
 {
-  "name": "blockchain_lottery",
+  "name": "Exercise_Front_end",
   "version": "1.0.0",
-  "description": "provider smart contract lottery number and front end bet coin",
+  "description": "Exercise Senior Frontend (React) - Part time",
   "private": true,
   "scripts": {
     "start": "react-scripts start",
@@ -71,7 +71,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/truong160196/blockchain_lottery.git"
+    "url": "git+https://github.com/truong160196/Test_UI_Frontend.git"
   },
   "keywords": [
     "blockchain",
@@ -82,7 +82,7 @@
   "author": "truong.nq",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/truong160196/blockchain_lottery/issues"
+    "url": "https://github.com/truong160196/Test_UI_Frontend.git/issues"
   },
-  "homepage": "https://github.com/truong160196/blockchain_lottery#readme"
+  "homepage": "https://github.com/truong160196/Test_UI_Frontend.git#readme"
 }
