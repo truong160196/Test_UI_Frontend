@@ -59,7 +59,7 @@ Game using metamask connect with test net in game, using smart contract to excha
 [Award Second runner-up](https://www.hackerearth.com/challenges/hackathon/hacking-homelessness/)
 develop a blockchain project that supports the donation of charity funds to the homeless
 # Trust fund management (in process)
-![Login MetaMask](./public/assets/screen_1.JPG)
+![Layout home page](./public/assets/screen_1.png)
 
 # Blockchain cross-careers (private)
 [Customer](https://www.softbank.jp/en/corp/news/press/sbkk/2019/20191023_01)
