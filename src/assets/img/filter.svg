@@ -1,0 +1,171 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 121 102" width="121" height="102">
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="M-261 10L114 10L114 823L-261 823Z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp2">
+			<path d="M54.06 61.96C53.29 62.74 52.03 62.74 51.27 61.96L42.25 52.95C41.48 52.18 41.48 50.93 42.25 50.15L51.27 41.14C52.03 40.37 53.29 40.37 54.06 41.14L63.07 50.15C63.84 50.93 63.84 52.18 63.07 52.95L54.06 61.96Z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp3">
+			<path d="M-1024.95 62.54L105.25 62.54L105.25 12.31L-1024.95 12.31L-1024.95 62.54Z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp4">
+			<path d="M77.88 49.15C77.11 49.92 77.11 51.18 77.88 51.95L86.89 60.96C87.66 61.73 88.92 61.73 89.69 60.96L98.7 51.95C99.47 51.18 99.47 49.92 98.7 49.15L89.69 40.14C88.92 39.37 87.66 39.37 86.89 40.14L77.88 49.15Z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp5">
+			<path d="M-1023.16 66.25L107.04 66.25L107.04 16.02L-1023.16 16.02L-1023.16 66.25Z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp6">
+			<path d="M95.6 31.66C94.83 32.43 94.83 33.69 95.6 34.46L104.61 43.47C105.38 44.24 106.64 44.24 107.41 43.47L116.42 34.46C117.19 33.69 117.19 32.43 116.42 31.66L107.41 22.65C106.64 21.88 105.38 21.88 104.61 22.65L95.6 31.66Z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp7">
+			<path d="M-1005.44 48.76L124.76 48.76L124.76 -1.47L-1005.44 -1.47L-1005.44 48.76Z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp8">
+			<path d="M60.7 31.75C59.93 32.52 59.93 33.78 60.7 34.55L69.71 43.56C70.48 44.33 71.74 44.33 72.51 43.56L81.52 34.55C82.29 33.78 82.29 32.52 81.52 31.75L72.51 22.74C71.74 21.97 70.48 21.97 69.71 22.74L60.7 31.75Z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp9">
+			<path d="M-1026.3 62.89L103.9 62.89L103.9 12.66L-1026.3 12.66L-1026.3 62.89Z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp10">
+			<path d="M78.98 14.48C78.21 15.25 78.21 16.51 78.98 17.28L87.99 26.29C88.76 27.06 90.02 27.06 90.79 26.29L99.8 17.28C100.57 16.51 100.57 15.25 99.8 14.48L90.79 5.47C90.02 4.7 88.76 4.7 87.99 5.47L78.98 14.48Z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp11">
+			<path d="M-1008.02 45.62L122.18 45.62L122.18 -4.61L-1008.02 -4.61L-1008.02 45.62Z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp12">
+			<path d="M60.31 66.79C59.54 67.55 59.54 68.81 60.31 69.58L69.32 78.6C70.09 79.36 71.35 79.36 72.12 78.6L81.13 69.58C81.9 68.81 81.9 67.55 81.13 66.79L72.12 57.77C71.35 57 70.09 57 69.32 57.77L60.31 66.79Z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp13">
+			<path d="M10.49 97.87L82.49 97.87L82.49 47.64L10.49 47.64L10.49 97.87Z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp14">
+			<path d="M95.6 66.77C94.83 67.54 94.83 68.8 95.6 69.57L104.61 78.58C105.38 79.35 106.64 79.35 107.41 78.58L116.42 69.57C117.19 68.8 117.19 67.54 116.42 66.77L107.41 57.76C106.64 56.99 105.38 56.99 104.61 57.76L95.6 66.77Z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp15">
+			<path d="M45.79 97.86L117.78 97.86L117.78 47.63L45.79 47.63L45.79 97.86Z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp16">
+			<path d="M24.15 67.73C23.38 68.5 23.38 69.76 24.15 70.53L33.16 79.54C33.93 80.31 35.19 80.31 35.96 79.54L44.97 70.53C45.74 69.76 45.74 68.5 44.97 67.73L35.96 58.72C35.19 57.95 33.93 57.95 33.16 58.72L24.15 67.73Z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp17">
+			<path d="M-1062.84 98.87L67.36 98.87L67.36 48.64L-1062.84 48.64L-1062.84 98.87Z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp18">
+			<path d="M41.71 14.77C40.94 15.53 40.94 16.79 41.71 17.56L50.72 26.58C51.49 27.34 52.75 27.34 53.52 26.58L62.53 17.56C63.3 16.79 63.3 15.53 62.53 14.77L53.52 5.75C52.75 4.98 51.49 4.98 50.72 5.75L41.71 14.77Z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp19">
+			<path d="M-8.1 45.85L63.89 45.85L63.89 -4.38L-8.1 -4.38L-8.1 45.85Z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp20">
+			<path d="M23.29 32.89C22.52 33.66 22.52 34.92 23.29 35.69L32.31 44.7C33.07 45.47 34.33 45.47 35.1 44.7L44.11 35.69C44.88 34.92 44.88 33.66 44.11 32.89L35.1 23.88C34.33 23.11 33.07 23.11 32.31 23.88L23.29 32.89Z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp21">
+			<path d="M-1077.74 49.98L52.46 49.98L52.46 -0.25L-1077.74 -0.25L-1077.74 49.98Z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp22">
+			<path d="M5.01 51.17C4.24 51.94 4.24 53.2 5.01 53.97L14.02 62.98C14.79 63.75 16.05 63.75 16.82 62.98L25.83 53.97C26.6 53.2 26.6 51.94 25.83 51.17L16.82 42.16C16.05 41.39 14.79 41.39 14.02 42.16L5.01 51.17Z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp23">
+			<path d="M-1096.02 68.27L34.17 68.27L34.17 18.03L-1096.02 18.03L-1096.02 68.27Z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp24">
+			<path d="M42.2 85.34C41.43 86.11 41.43 87.37 42.2 88.14L51.21 97.15C51.98 97.92 53.24 97.92 54.01 97.15L63.02 88.14C63.79 87.37 63.79 86.11 63.02 85.34L54.01 76.33C53.24 75.56 51.98 75.56 51.21 76.33L42.2 85.34Z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp25">
+			<path d="M-1058.84 102.44L71.36 102.44L71.36 52.21L-1058.84 52.21L-1058.84 102.44Z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp26">
+			<path d="M78.38 84.34C77.61 85.11 77.61 86.36 78.38 87.13L87.39 96.15C88.16 96.92 89.42 96.92 90.19 96.15L99.2 87.13C99.97 86.36 99.97 85.11 99.2 84.34L90.19 75.32C89.42 74.55 88.16 74.55 87.39 75.32L78.38 84.34Z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp27">
+			<path d="M-1022.65 101.43L107.54 101.43L107.54 51.2L-1022.65 51.2L-1022.65 101.43Z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp28">
+			<path d="M7.02 85.34C6.25 86.11 6.25 87.37 7.02 88.14L16.03 97.15C16.8 97.92 18.06 97.92 18.83 97.15L27.84 88.14C28.61 87.37 28.61 86.11 27.84 85.34L18.83 76.33C18.06 75.56 16.8 75.56 16.03 76.33L7.02 85.34Z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp29">
+			<path d="M-1094.01 102.44L36.18 102.44L36.18 52.21L-1094.01 52.21L-1094.01 102.44Z" />
+		</clipPath>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #2159a7 } 
+	</style>
+	<g id="Deposit for - Quota" clip-path="url(#cp1)">
+		<g id="Component 27 – 2">
+			<g id="Group 2223" style="opacity: 0.549">
+				<g id="Group 2203" clip-path="url(#cp2)" style="opacity: 0.102">
+					<g id="Group 2202" clip-path="url(#cp3)">
+						<path id="Path 4542" class="shp0" d="M37.75 36.64L67.58 36.64L67.58 66.47L37.75 66.47L37.75 36.64Z" />
+					</g>
+				</g>
+				<g id="Group 2207" clip-path="url(#cp4)" style="opacity: 0.102">
+					<g id="Group 2206" clip-path="url(#cp5)">
+						<path id="Path 4548" class="shp0" d="M103.2 65.46L103.2 35.64L73.38 35.64L73.38 65.46L103.2 65.46Z" />
+					</g>
+				</g>
+				<g id="Group 2216" clip-path="url(#cp6)" style="opacity: 0.102">
+					<g id="Group 2215" clip-path="url(#cp7)">
+						<path id="Path 4557" class="shp0" d="M120.92 47.97L120.92 18.15L91.09 18.15L91.09 47.97L120.92 47.97Z" />
+					</g>
+				</g>
+				<g id="Group 2209" clip-path="url(#cp8)" style="opacity: 0.102">
+					<g id="Group 2208" clip-path="url(#cp9)">
+						<path id="Path 4551" class="shp0" d="M86.02 48.06L86.02 18.23L56.19 18.23L56.19 48.06L86.02 48.06Z" />
+					</g>
+				</g>
+				<g id="Group 2282" clip-path="url(#cp10)" style="opacity: 0.102">
+					<g id="Group 2281" clip-path="url(#cp11)">
+						<path id="Path 4663" class="shp0" d="M104.3 30.79L104.3 0.97L74.47 0.97L74.47 30.79L104.3 30.79Z" />
+					</g>
+				</g>
+				<g id="Group 2205" clip-path="url(#cp12)" style="opacity: 0.102">
+					<g id="Group 2204" clip-path="url(#cp13)">
+						<path id="Path 4545" class="shp0" d="M85.63 83.1L85.63 53.27L55.8 53.27L55.8 83.1L85.63 83.1Z" />
+					</g>
+				</g>
+				<g id="Group 2222" clip-path="url(#cp14)" style="opacity: 0.102">
+					<g id="Group 2221" clip-path="url(#cp15)">
+						<path id="Path 4566" class="shp0" d="M120.92 83.09L120.92 53.26L91.1 53.26L91.1 83.09L120.92 83.09Z" />
+					</g>
+				</g>
+				<g id="Group 2209" clip-path="url(#cp16)" style="opacity: 0.102">
+					<g id="Group 2208" clip-path="url(#cp17)">
+						<path id="Path 4551" class="shp0" d="M49.47 84.04L49.47 54.21L19.65 54.21L19.65 84.04L49.47 84.04Z" />
+					</g>
+				</g>
+				<g id="Group 2205" clip-path="url(#cp18)" style="opacity: 0.102">
+					<g id="Group 2204" clip-path="url(#cp19)">
+						<path id="Path 4545" class="shp0" d="M67.03 31.08L67.03 1.25L37.21 1.25L37.21 31.08L67.03 31.08Z" />
+					</g>
+				</g>
+				<g id="Group 2207" clip-path="url(#cp20)" style="opacity: 0.102">
+					<g id="Group 2206" clip-path="url(#cp21)">
+						<path id="Path 4548" class="shp0" d="M48.62 49.2L48.62 19.38L18.79 19.38L18.79 49.2L48.62 49.2Z" />
+					</g>
+				</g>
+				<g id="Group 2284" clip-path="url(#cp22)" style="opacity: 0.102">
+					<g id="Group 2283" clip-path="url(#cp23)">
+						<path id="Path 4666" class="shp0" d="M30.33 67.48L30.33 37.66L0.51 37.66L0.51 67.48L30.33 67.48Z" />
+					</g>
+				</g>
+				<g id="Group 2286" clip-path="url(#cp24)" style="opacity: 0.102">
+					<g id="Group 2285" clip-path="url(#cp25)">
+						<path id="Path 4669" class="shp0" d="M67.52 101.65L67.52 71.83L37.7 71.83L37.7 101.65L67.52 101.65Z" />
+					</g>
+				</g>
+				<g id="Group 2290" clip-path="url(#cp26)" style="opacity: 0.102">
+					<g id="Group 2289" clip-path="url(#cp27)">
+						<path id="Path 4675" class="shp0" d="M103.7 100.65L103.7 70.82L73.88 70.82L73.88 100.65L103.7 100.65Z" />
+					</g>
+				</g>
+				<g id="Group 2288" clip-path="url(#cp28)" style="opacity: 0.102">
+					<g id="Group 2287" clip-path="url(#cp29)">
+						<path id="Path 4672" class="shp0" d="M32.34 101.65L32.34 71.83L2.52 71.83L2.52 101.65L32.34 101.65Z" />
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

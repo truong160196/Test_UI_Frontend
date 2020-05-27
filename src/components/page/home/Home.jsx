@@ -9,7 +9,6 @@ class Home extends React.Component {
   render() {
     return (
       <div id="body-home">
-        <h1>Hello</h1>
       </div>
     );
   }

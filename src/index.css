@@ -2,3 +2,7 @@
 	font-family: Barlow;
 	src: url(./assets/fonts/Barlow-Regular.ttf);
   }
+
+  body {
+	font-family: "Barlow";
+  }
