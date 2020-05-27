@@ -4,7 +4,10 @@ import {
   faBars,
   faQuestionCircle,
   faBell
-} from '@fortawesome/free-solid-svg-icons'
+} from '@fortawesome/free-regular-svg-icons'
+
+import {
+} from '@fortawesome/free-regular-svg-icons'
 // import component
 import './header.scss';
 
@@ -29,6 +32,7 @@ class Header extends React.Component {
         <div className="top-header">
           <div className="left-bar">
             <i className="fa fa-bars menu-hide"></i>
+            <FontAwesomeIcon className="menu-hide" icon={faBars} />
             <h3 className="name-text">Henry Chou</h3>
           </div>
           <div className="right-bar">
